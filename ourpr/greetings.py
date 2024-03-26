@@ -1,0 +1,6 @@
+x=input("enter your name")
+y=input("enter your age")
+z=input("enter your gender")
+print("hello",x,"welcome to our service")
+print("your age is",y)
+print("your gender is",z)
